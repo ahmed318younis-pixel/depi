@@ -1,1 +1,1 @@
-echo("hallo from git")
+echo "hallo from git"
